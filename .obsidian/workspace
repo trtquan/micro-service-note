@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "2eae3cad8163603c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f535f9b8f58f5057",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pet.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7e90799b1f3b2d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ca10246f691ede1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3953f1438ede1c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "521722614ca7c0ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a9d541f60122f156",
+    "type": "split",
+    "children": [
+      {
+        "id": "fab37cfedb88552d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e236cdd0e1886bb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Async.md",
+    "communication between services.md",
+    "Sync.md",
+    "sync communication between services.md",
+    "data-management.md",
+    "What is micro-service.md"
+  ]
+}
